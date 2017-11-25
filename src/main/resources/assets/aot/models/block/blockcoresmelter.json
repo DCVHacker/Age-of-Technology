@@ -1,0 +1,9 @@
+{
+    "parent": "block/orientable",
+    "textures":
+    {
+        "top": "aot:blocks/blockcoresmelter_side",
+        "front": "aot:blocks/blockcoresmelter_front_off",
+        "side": "aot:blocks/blockcoresmelter_side"
+    }
+}

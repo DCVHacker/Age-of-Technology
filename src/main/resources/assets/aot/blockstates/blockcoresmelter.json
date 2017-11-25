@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "aot:block/blockcoresmelter" },
+        "facing=south": { "model": "aot:block/blockcoresmelter", "y": 180 },
+        "facing=west":  { "model": "aot:block/blockcoresmelter", "y": 270 },
+        "facing=east":  { "model": "aot:block/blockcoresmelter", "y": 90 }
+    }
+}

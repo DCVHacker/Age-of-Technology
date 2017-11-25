@@ -1,0 +1,16 @@
+[
+{
+  "modid": "aot",
+  "name": "Age of Techology",
+  "description": "",
+  "version": "0.0.1",
+  "mcversion": "1.12+",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DCV_Hacker"],
+  "credits": "DCV_Hacker",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
